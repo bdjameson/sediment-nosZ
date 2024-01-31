@@ -5,3 +5,5 @@ This repository holds supporting data files and R code associted with the manusc
 **High abundances and expression levels of atypical, non denitrifier N2O reductases drive strong microbial N2O consumption rates in a minimally impacted mangrove stand**    
 *Brett D. Jameson, Mark Louie D. Lopez, Matthew Bonderud, Catherine J. Stevens, S. Kim Juniper, Caren C. Helbing, Damian S. Grundle*    
 (In review) at JGR: Biogeosciences.
+
+[![DOI](https://zenodo.org/badge/692865420.svg)](https://zenodo.org/doi/10.5281/zenodo.10602334)
